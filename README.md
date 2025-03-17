@@ -1,16 +1,15 @@
-## Hi there 👋
+## About Me
 
-<!--
-**AaronMahoney/aaronmahoney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there!
 
-Here are some ideas to get you started:
+I'm a Software Engineering diploma graduate working hard to land my first role in the industry. While I'm new to the field, I bring over 8 years of professional experience in media and broadcasting, where I developed a strong work ethic, problem-solving skills, and an eye for detail.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Originally from St. John's, Newfoundland, I now call Calgary, Alberta home. I'm passionate about continuous learning and always striving to improve my skills. Whether it's refining my code, exploring new technologies, or tackling complex problems, I'm always up for the challenge.
+
+💡 What I'm Working On:
+
+Expanding my skills in full-stack development
+
+Building projects to strengthen my portfolio
+
+Connecting with other developers and learning from the community
